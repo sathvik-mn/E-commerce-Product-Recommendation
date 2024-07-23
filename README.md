@@ -1,5 +1,7 @@
 # E-commerce Product Recommendation
 
+![image](https://github.com/user-attachments/assets/28ebc0ca-b118-4ec0-96b9-9f106518f049)
+
 A well-developed recommendation system can significantly enhance a customer's shopping experience on an e-commerce platform, leading to better customer acquisition and retention. The recommendation system described below is designed to cater to new customers and those with a purchase history, and it also considers scenarios where the business has no prior purchase data. The system is divided into three parts:
 
 ## Recommendation System Overview
