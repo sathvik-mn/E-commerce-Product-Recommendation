@@ -39,3 +39,4 @@ For businesses without any user-item purchase history, recommendations can be ma
 
 ## Conclusion
 This recommendation system ensures that new customers are initially engaged with popular products, while returning customers receive personalized recommendations based on their and others' purchase histories. For businesses starting their e-commerce journey without purchase data, a text-based clustering approach ensures relevant product recommendations, enhancing the overall shopping experience.
+(Ongoing Project)
