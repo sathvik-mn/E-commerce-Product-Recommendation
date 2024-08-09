@@ -15,7 +15,7 @@ For new customers visiting the e-commerce website for the first time, recommendi
 ### Steps:
 
 1. Data Loading and Cleaning: Load and clean the data to ensure there are no missing values.
-2. Identify Most Popular Products: Group the products by their ID and count the number of ratings for each product to determine their popularity.
+2. Identify Most Popular Products: Group the products by their ID and count the number of ratings for each  product to determine their popularity.
 3. Visualization: Create a bar chart to display the most popular products in descending order of their ratings, which can be recommended to new customers.
 
 ## Part II: Model-Based Collaborative Filtering System
